@@ -1,12 +1,49 @@
-# Mkdir-HormigasAIS-Open-Lab-
-Un espacio donde desarrolladores, diseñadores y creadores puedan colaborar en proyectos de automatización de marketing, scraping de datos, análisis SEO y desarrollo de contenido con IA.
+# 🧪 HormigasAIS Open Lab
 
+**Laboratorio abierto experimental de ideas, herramientas y automatizaciones impulsadas por inteligencia artificial, scraping y datos.**
 
-<<https://www.linkedin.com/newsletters/hormigasais-community-7307138608543490048
+Este repositorio forma parte del ecosistema creativo y de automatización de **HormigasAIS**, un espacio en constante evolución dedicado a integrar conocimientos técnicos con experiencias humanas.
 
 ---
 
-### 🔧 Proyecto asociado: n8n-selfhost-hormigasais
-Este laboratorio se vincula con el repositorio técnico [n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow](https://github.com/Thrumanshow), donde se desarrolla una instancia autoalojada de n8n integrada con GitHub y otros flujos de HormigasAIS.
+## 🔗 Proyecto asociado: n8n-selfhost-hormigasais
 
-📌 Este nodo representa el motor de automatización que impulsa varios experimentos del Open Lab.
+Este laboratorio se vincula con el repositorio técnico [n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow](https://github.com/Thrumanshow).
+
+💡 Desde este nodo n8n autoalojado, se implementan flujos de automatización para:
+- Integración con GitHub
+- Pruebas de scraping distribuido
+- Orquestación de tareas HormigasAIS
+- Notificaciones conectadas con Slack
+
+> ⚙️ Este motor representa la parte funcional del laboratorio y permite testear ideas de automatización aplicadas a marketing digital, SEO y análisis de datos.
+
+---
+
+## 🧠 Sobre HormigasAIS-ux
+
+El perfil [HormigasAIS-ux](https://github.com/HormigasAIS-ux) está centrado en:
+- Experimentos de automatización creativa
+- Visualización de datos
+- Conexión entre comunidades digitales e inteligencia artificial distribuida
+
+Este repositorio es parte de la iniciativa *Mkdir HormigasAIS Open Lab*, una estructura modular, abierta y replicable.
+
+---
+
+## 🌱 Estado del proyecto
+
+- [x] Readme estructurado
+- [ ] Publicación de primeros experimentos
+- [ ] Interconexión de flujos (n8n + GitHub + Markdown)
+- [ ] Documentación colaborativa
+
+---
+
+## 📫 Contacto
+
+Desarrollado por **Cristhiam Quiñonez**  
+Fundador de [HormigasAIS](https://www.linkedin.com/company/hormigasais)  
+Explorador de conexiones entre IA, UX y automatización.
+
+---
