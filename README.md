@@ -1,5 +1,6 @@
 ### 🔧 Proyecto asociado: n8n-selfhost-hormigasais
-Este laboratorio se vincula con el repositorio técnico [n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow](https://github.com/Thrumanshow), donde se desarrolla una instancia autoalojada de n8n integrada con GitHub y otros flujos de HormigasAIS.
+Este laboratorio se vincula con el repositorio técnico
+This example<br/> Will span two lines [n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow](https://github.com/Thrumanshow), donde se desarrolla una instancia autoalojada de n8n integrada con GitHub y otros flujos de HormigasAIS.
 
 📌 Este nodo representa el motor de automatización que impulsa varios experimentos del Open Lab.
 
@@ -7,15 +8,13 @@ Este laboratorio se vincula con el repositorio técnico [n8n-selfhost-hormigasai
 
 # 🧪 HormigasAIS Open Lab
 
-**Laboratorio abierto experimental de ideas, herramientas y automatizaciones impulsadas por inteligencia artificial, scraping y datos.**
-
 Este repositorio forma parte del ecosistema creativo y de automatización de **HormigasAIS**, un espacio en constante evolución dedicado a integrar conocimientos técnicos con experiencias humanas.
 
 ---
 
 ## 🔗 Proyecto asociado: n8n-selfhost-hormigasais
 
-Este laboratorio se vincula con el repositorio técnico [n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow](https://github.com/Thrumanshow).
+Este laboratorio se vincula con el repositorio técnico <[n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow]/(https://github.com/Thrumanshow>
 
 💡 Desde este nodo n8n autoalojado, se implementan flujos de automatización para:
 - Integración con GitHub
