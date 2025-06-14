@@ -1,7 +1,6 @@
 ### Proyecto asociado: hormigasais-open-lab 
 
-Este laboratorio se vincula con el repositorio HormigasAIS-ux  y su enfoque en la automatización consciente. Puedes consultarlo en [Thrumanshow](https://github.com/Thrumanshow/Thrumanshow)
-
+Este laboratorio se vincula con el repositorio HormigasAIS-ux  y su enfoque en la automatización consciente. Puedes consultarlo en [Thrumanshow](https://github.com/Thrumanshow/n8n-selfhost-hormigasais.)
 
 ---
 
