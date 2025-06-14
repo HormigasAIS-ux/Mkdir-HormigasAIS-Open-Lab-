@@ -45,7 +45,9 @@ Este repositorio es parte de la iniciativa *Mkdir HormigasAIS Open Lab*, una est
 ## 📫 Contacto
 
 Desarrollado por **Cristhiam Quiñonez**  
-Fundador de [HormigasAIS](https://www.linkedin.com/company/hormigasais)  
-Explorador de conexiones entre IA, UX y automatización.
+Fundador de [HormigasAIS](https://www.linkedin.com/company/hormigasais)
+
+![Status](https://img.shields.io/badge/status-en%20desarrollo-blue)
+![n8n](https://img.shields.io/badge/n8n-selfhosted-orange)
 
 ---
