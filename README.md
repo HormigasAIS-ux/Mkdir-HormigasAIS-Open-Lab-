@@ -6,6 +6,9 @@ Este laboratorio se vincula con el repositorio HormigasAIS-ux  y su enfoque en 
 
 # 🧪 HormigasAIS Open Lab
 
+![Status](https://img.shields.io/badge/status-en%20desarrollo-blue)
+![n8n](https://img.shields.io/badge/n8n-selfhosted-orange)
+
 **Laboratorio abierto experimental de ideas, herramientas y automatizaciones impulsadas por inteligencia artificial, scraping y datos.**
 
 Este repositorio forma parte del ecosistema creativo y de automatización de **HormigasAIS**, un espacio en constante evolución dedicado a integrar conocimientos técnicos con experiencias humanas.
@@ -46,8 +49,5 @@ Este repositorio es parte de la iniciativa *Mkdir HormigasAIS Open Lab*, una est
 
 Desarrollado por **Cristhiam Quiñonez**  
 Fundador de [HormigasAIS](https://www.linkedin.com/company/hormigasais)
-
-![Status](https://img.shields.io/badge/status-en%20desarrollo-blue)
-![n8n](https://img.shields.io/badge/n8n-selfhosted-orange)
 
 ---
