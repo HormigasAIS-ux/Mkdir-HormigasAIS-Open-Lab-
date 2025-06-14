@@ -6,7 +6,8 @@ Este laboratorio se vincula con el repositorio HormigasAIS-ux  y su enfoque en 
 
 # 🧪 HormigasAIS Open Lab
 
-[![Última actualización](https://img.shields.io/github/last-commit/Thrumanshow/n8n-selfhost-hormigasais.)](https://github.com/Thrumanshow/n8n-selfhost-hormigasais/commits/main)
+![Status](https://img.shields.io/badge/status-en%20desarrollo-blue)
+![n8n](https://github.com/Thrumanshow/n8n-selfhost-hormigasais.)
 
 **Laboratorio abierto experimental de ideas, herramientas y automatizaciones impulsadas por inteligencia artificial, scraping y datos.**
 
