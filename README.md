@@ -1,10 +1,9 @@
-### 🔧 Proyecto asociado: n8n-selfhost-hormigasais
-Este laboratorio se vincula con el repositorio técnico
-This example<br/> Will span two lines [n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow](https://github.com/Thrumanshow), donde se desarrolla una instancia autoalojada de n8n integrada con GitHub y otros flujos de HormigasAIS.
+### Proyecto asociado: hormigasais-open-lab 
 
-📌 Este nodo representa el motor de automatización que impulsa varios experimentos del Open Lab.
+Este laboratorio se vincula con el repositorio HormigasAIS-ux  y su enfoque en la automatización consciente. Puedes consultarlo en [HormigasAISOpenLab](https://github.com/Thrumanshow/n8n-selfhost-hormigasais)
 
 
+---
 
 # 🧪 HormigasAIS Open Lab
 
