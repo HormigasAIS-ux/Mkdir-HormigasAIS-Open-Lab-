@@ -13,7 +13,7 @@ Este repositorio forma parte del ecosistema creativo y de automatización de **H
 
 ## 🔗 Proyecto asociado: n8n-selfhost-hormigasais
 
-Este laboratorio se vincula con el repositorio técnico <[n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow]/(https://github.com/Thrumanshow>
+Este laboratorio se vincula con el repositorio técnico <[Thrumanshow](https://github.com/Thrumanshow/CRWSSA-Base), mantenido por el perfil técnico [Thrumanshow]/(https://github.com/Thrumanshow>
 
 💡 Desde este nodo n8n autoalojado, se implementan flujos de automatización para:
 - Integración con GitHub
