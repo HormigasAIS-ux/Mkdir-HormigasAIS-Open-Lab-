@@ -6,16 +6,15 @@ Este laboratorio se vincula con el repositorio HormigasAIS-ux  y su enfoque en 
 
 # 🧪 HormigasAIS Open Lab
 
+**Laboratorio abierto experimental de ideas, herramientas y automatizaciones impulsadas por inteligencia artificial, scraping y datos.**
+
 Este repositorio forma parte del ecosistema creativo y de automatización de **HormigasAIS**, un espacio en constante evolución dedicado a integrar conocimientos técnicos con experiencias humanas.
 
 ---
 
 ## 🔗 Proyecto asociado: n8n-selfhost-hormigasais
 
-Este laboratorio se vincula con el repositorio técnico <[Thrumanshow](https://github.com/Thrumanshow/CRWSSA-Base), mantenido por el perfil técnico 
-
-<[Thrumanshow](https://github.com/Thrumanshow/n8n-selfhost-hormigasais.
-), 
+Este laboratorio se vincula con el repositorio técnico [n8n-selfhost-hormigasais](https://github.com/Thrumanshow/n8n-selfhost-hormigasais), mantenido por el perfil técnico [Thrumanshow](https://github.com/Thrumanshow).
 
 💡 Desde este nodo n8n autoalojado, se implementan flujos de automatización para:
 - Integración con GitHub
